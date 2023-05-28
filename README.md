@@ -41,6 +41,10 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=StoryBook&logoColor=white"/>
   </div>
+  <div>
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white"/>
+  </div>
 </div>
 
 <div>
