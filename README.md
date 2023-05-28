@@ -5,11 +5,31 @@
 -->
 
 ## Skills
+<div>
+  <h3>Backend</h3>
+</div>
+
+<div align=center>
+  <h3>Frontend</h3>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+ 
+</div>
 
+<div>
+  <h3>DevOps</h3>
+</div>
+
+<div>
+  <h3>App</h3>
+</div>
+
+<div>
+  <h3>Tools & Collaboration</h3>
+</div>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 
 <!--
 
