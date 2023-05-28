@@ -3,10 +3,13 @@
 <!--
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Welcome%20to%20SHIN96BC%20Github%20&fontSize=50" />
 -->
-timeGradient
-### Hi there 👋
+
+### Skills
+
 
 <!--
+
+### Hi there 👋
 **SHIN96BC/SHIN96BC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
