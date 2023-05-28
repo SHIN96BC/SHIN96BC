@@ -45,6 +45,10 @@
 
 <div>
   <h3>DevOps</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+    
+  </div>
 </div>
 
 <div>
