@@ -1,5 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=61DAFB&height=300&section=header&text=Welcome%20to%40SHIN96BC%20Github%20&fontSize=70" />
-$40
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Welcome%20to%20SHIN96BC%20Github%20&fontSize=50" />
+
+<!--
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=61DAFB&height=300&section=header&text=Welcome%20to%20SHIN96BC%20Github%20&fontSize=50" />
+-->
+timeGradient
 ### Hi there 👋
 
 <!--
