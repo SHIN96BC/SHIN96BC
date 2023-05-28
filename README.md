@@ -60,6 +60,9 @@
      <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
      <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
   </div>
+  <div>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  </div>
 </div>
 
 <div>
