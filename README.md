@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   </div>
   <div>
