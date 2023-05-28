@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=StoryBook&logoColor=white"/>
   </div>
- 
 </div>
 
 <div>
@@ -38,13 +37,21 @@
 <div>
   <h3>App</h3>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 
 <div>
   <h3>Tools & Collaboration</h3>
+  <img src="https://img.shields.io/badge/IntellijIDE-000000?style=flat&logo=IntellijIDEa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 
 <!--
 
