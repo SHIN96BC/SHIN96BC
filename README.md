@@ -42,7 +42,7 @@
 
 <div>
   <h3>Tools & Collaboration</h3>
-  <img src="https://img.shields.io/badge/IntellijIDE-000000?style=flat&logo=IntellijIDEa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij%20IDE-000000?style=flat&logo=IntellijIDEa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
