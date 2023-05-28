@@ -36,8 +36,8 @@
 
 <div>
   <h3>App</h3>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
 </div>
 
 <div>
