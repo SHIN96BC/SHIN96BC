@@ -50,6 +50,16 @@
     <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonrds&logoColor=white"/>
   </div>
+  <div>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  </div>
+  <div>
+     <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
+  </div>
 </div>
 
 <div>
