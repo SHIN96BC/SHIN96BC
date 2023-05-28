@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=50:61DAFB,50:3178C6&height=300&section=header&text=Welcome%20to%20SHIN96BC%20Github%20&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:61DAFB,100:3178C6&height=300&section=header&text=Welcome%20to%20SHIN96BC%20Github%20&fontSize=50" />
 
 <!--
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Welcome%20to%20SHIN96BC%20Github%20&fontSize=50" />
