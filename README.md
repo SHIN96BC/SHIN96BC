@@ -9,11 +9,11 @@
   <h3>Backend</h3>
 </div>
 
-<div align=center>
+<div>
   <h3>Frontend</h3>
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
  
 </div>
 
