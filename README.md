@@ -43,7 +43,7 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>a
+    <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=StoryBook&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   </div>
