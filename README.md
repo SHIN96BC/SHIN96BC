@@ -47,6 +47,8 @@
     <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
     <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat&logo=createreactapp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=StoryBook&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   </div>
