@@ -36,7 +36,7 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/JSP-000000?style=flat&logo=JSP&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/> -->
   </div>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
