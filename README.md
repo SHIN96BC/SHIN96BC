@@ -97,7 +97,7 @@
     <img src="https://img.shields.io/badge/Visual%20studio%20code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidStudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Xcode%147EFB?style=flat&logo=xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
