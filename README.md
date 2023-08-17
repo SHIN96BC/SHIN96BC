@@ -9,6 +9,8 @@
   <h3>Backend</h3>
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   </div>
   <div>
