@@ -124,3 +124,8 @@
   </div>
 </div>
 
+<div>
+  <h3>mainly used OS</h3>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macOS&logoColor=white"/>
+</div>
+
