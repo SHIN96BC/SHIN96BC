@@ -125,7 +125,19 @@
 </div>
 
 <div>
-  <h3>mainly used OS</h3>
-  <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macOS&logoColor=white"/>
+  <h3>mainly used</h3>
+  <div>
+    <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macOS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Intellij%20IDE-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
+  </div>
 </div>
 
