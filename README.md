@@ -124,6 +124,8 @@
   </div>
 </div>
 
+---
+
 ## Preferred
 <div>
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macOS&logoColor=white"/>
