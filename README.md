@@ -124,7 +124,7 @@
   </div>
 </div>
 
-##Preferred
+## Preferred
 <div>
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij%20IDE-000000?style=flat&logo=intellijidea&logoColor=white"/>
