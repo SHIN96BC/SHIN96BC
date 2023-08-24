@@ -125,7 +125,7 @@
 </div>
 
 <div>
-  <h3>mainly used</h3>
+  <h3>Preferred/h3>
   <div>
     <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macOS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Intellij%20IDE-000000?style=flat&logo=intellijidea&logoColor=white"/>
