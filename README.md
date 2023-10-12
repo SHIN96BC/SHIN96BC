@@ -46,6 +46,7 @@
 <!--     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/> -->
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
   </div>
