@@ -58,10 +58,15 @@
   <div>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
+    <img src="https://img.shields.io/badge/zustand-666666?style=flatl&logo=zustand&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jotai-666666?style=flatl&logo=jotai&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=StoryBook&logoColor=white"/>
@@ -119,12 +124,14 @@
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidStudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
-    
   </div>
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git Flow-F05032?style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
@@ -142,7 +149,6 @@
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/>
 </div>
 <div>
@@ -152,15 +158,9 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </div>
 
