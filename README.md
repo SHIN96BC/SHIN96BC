@@ -54,7 +54,7 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/zustand-666666?style=flatl&logo=zustand&logoColor=white"/>
     <img src="https://img.shields.io/badge/jotai-666666?style=flatl&logo=jotai&logoColor=white"/>
   </div>
