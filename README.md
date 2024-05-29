@@ -85,6 +85,8 @@
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonrds&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -130,8 +132,6 @@
     <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git Flow-F05032?style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
@@ -157,10 +157,12 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </div>
 
