@@ -101,6 +101,7 @@
   </div>
 </div>
 
+<!--
 <div>
   <h3>App</h3>
   <div>
@@ -115,6 +116,7 @@
     <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=white"/>
   </div>
 </div>
+-->
 
 <div>
   <h3>Tools & Collaboration</h3>
