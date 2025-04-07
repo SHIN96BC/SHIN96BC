@@ -80,7 +80,7 @@
 <div>
   <h3>DevOps</h3>
   <div>
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
