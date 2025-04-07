@@ -85,6 +85,7 @@
     <img src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonrds&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-1EB4D4?style=flat&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
