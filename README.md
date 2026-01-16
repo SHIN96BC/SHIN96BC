@@ -5,7 +5,7 @@
 -->
 
 ## Portfolio
-<a>https://github.com/SHIN96BC-Portfolio</a>
+<a href="https://github.com/SHIN96BC-Portfolio">포르폴리오 보기</a>
 
 ## Skills
 <div>
