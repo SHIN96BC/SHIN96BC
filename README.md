@@ -4,6 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Welcome%20to%20SHIN96BC%20Github%20&fontSize=50" />
 -->
 
+## Portfolio
+<a>https://github.com/SHIN96BC-Portfolio</a>
+
 ## Skills
 <div>
   <h3>Frontend</h3>
