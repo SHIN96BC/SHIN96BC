@@ -95,10 +95,11 @@
     <img src="https://img.shields.io/badge/Azure-1EB4D4?style=flat&logoColor=white"/>
   </div>
   <div>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MsSQL-D9232E?style=flat&logo=mssql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MsSQL-D9232E?style=flat&logo=mssql&logoColor=white"/>
   </div>
   <div>
      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
@@ -168,8 +169,8 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MsSQL-D9232E?style=flat&logo=mssql&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat&logo=amazonec2&logoColor=white"/>
