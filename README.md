@@ -5,7 +5,9 @@
 -->
 
 ## Portfolio
-<a href="https://github.com/SHIN96BC-Portfolio">포르폴리오 보기</a>
+- 포트폴리오는 다른 Organizations 으로 구성했습니다.
+- 포트폴리오 프로젝트 코드를 확인하시려면 아래의 링크를 눌러주세요.
+- <a href="https://github.com/SHIN96BC-Portfolio">포르폴리오 프로젝트 확인하기</a>
 
 ## Skills
 <div>
